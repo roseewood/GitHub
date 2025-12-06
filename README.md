@@ -1,4 +1,4 @@
-<h1 style="font-size: 2.5rem; color:#2c3e50;">🚀 Learn GitHub</h1>
+<h1 align="center" style="font-size: 2.5rem; color:#2c3e50;">🚀 Learn GitHub</h1>
 
 <p>Welcome to the <strong>ultimate GitHub learning guide</strong>.<br>
 This README is designed so that <strong>anyone can learn Git + GitHub from zero to advanced</strong>, simply by reading it.</p>
