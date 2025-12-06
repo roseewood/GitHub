@@ -15,7 +15,7 @@ This README is designed so that <strong>anyone can learn Git + GitHub from zero 
 
 <hr>
 
-<h1>📘 What Are Git & GitHub?</h1>
+<h1 align="center">📘 What Are Git & GitHub?</h1>
 
 <h2>🔧 What is Git?</h2>
 
@@ -52,7 +52,7 @@ It helps developers:
 
 <hr>
 
-<h1>🛠 Installing & Configuring Git</h1>
+<h1 align="center">🛠 Installing & Configuring Git</h1>
 
 <h2> Step 1: Install Git</h2>
 
@@ -72,7 +72,7 @@ git config --global user.email "your@email.com"
 
 <hr>
 
-<h1>📁 Repositories — Local & Remote</h1>
+<h1 align="center">📁 Repositories — Local & Remote</h1>
 
 <p>A <strong>repository (repo)</strong> is a folder tracked by Git.</p>
 
@@ -107,7 +107,7 @@ git push -u origin main
 
 <hr>
 
-<h1>📄 Understanding Git Workflow</h1>
+<h1 align="center">📄 Understanding Git Workflow</h1>
 
 <h3>Diagram: Local → GitHub Workflow</h3>
 
@@ -117,7 +117,7 @@ A[Working Directory] → git add → Staging Area → git commit → Local Repo 
 
 <hr>
 
-<h1>🧱 Essential Git Commands</h1>
+<h1 align="center">🧱 Essential Git Commands</h1>
 
 <table>
   <tr>
@@ -136,7 +136,7 @@ A[Working Directory] → git add → Staging Area → git commit → Local Repo 
 
 <hr>
 
-<h1>🔁 Commit, Push & Pull (Core Git Flow)</h1>
+<h1 align="center">🔁 Commit, Push & Pull (Core Git Flow)</h1>
 
 <pre>
 git add .
@@ -147,7 +147,7 @@ git pull origin main
 
 <hr>
 
-<h1>🌿 Branching — Safe Way to Build Features</h1>
+<h1 align="center">🌿 Branching — Safe Way to Build Features</h1>
 
 <h3>Create a branch</h3>
 <pre>git checkout -b login-feature</pre>
@@ -185,7 +185,7 @@ git pull origin main
 
 <hr>
 
-<h1>🤝 Collaboration — Forks & Clones</h1>
+<h1 align="center">🤝 Collaboration — Forks & Clones</h1>
 
 <h2>Clone a repo</h2>
 <pre>
@@ -208,7 +208,7 @@ git merge upstream/main
 
 <hr>
 
-<h1>💼 Issues, Labels, & Milestones</h1>
+<h1 align="center">💼 Issues, Labels, & Milestones</h1>
 
 <h2>Issues Used For</h2>
 <ul>
@@ -230,7 +230,7 @@ git merge upstream/main
 
 <hr>
 
-<h1>🧪 GitHub Actions — Automation & CI/CD</h1>
+<h1 align="center">🧪 GitHub Actions — Automation & CI/CD</h1>
 
 <h3>Example Workflow</h3>
 
@@ -251,7 +251,7 @@ jobs:
 
 <hr>
 
-<h1>🌐 GitHub Pages — FREE Website Hosting</h1>
+<h1 align="center">🌐 GitHub Pages — FREE Website Hosting</h1>
 
 <ol>
   <li>Go to <strong>Settings → Pages</strong></li>
@@ -265,7 +265,7 @@ jobs:
 
 <hr>
 
-<h1>🧠 Advanced Git Concepts</h1>
+<h1 align="center">🧠 Advanced Git Concepts</h1>
 
 <h2> Soft Reset (keep changes)</h2>
 <pre>git reset --soft HEAD~1</pre>
@@ -294,7 +294,7 @@ git push origin v1.0.0
 
 <hr>
 
-<h1>🚨 Best Practices Every Developer Should Follow</h1>
+<h1 align="center">🚨 Best Practices Every Developer Should Follow</h1>
 
 <ul>
   <li>Commit small & frequently</li>
@@ -308,7 +308,7 @@ git push origin v1.0.0
 
 <hr>
 
-<h1>📚 Useful Resources</h1>
+<h1 align="center">📚 Useful Resources</h1>
 
 <ul>
   <li><a href="https://git-scm.com/doc">Git Documentation</a></li>
